@@ -37,13 +37,13 @@ setOnClickListener(new OnClickListener() {
             
             <meta-data
                 android:name="android.app.lib_name"
-                android:value="" />
+                android:value="" 
+                />
                 
                 <intent-filter>
-                <action android:name="<Secound Activity Name with Package Name>" />
-
-                <category android:name="android.intent.category.DEFAULT" />
-            </intent-filter>
+                        <action android:name="<Secound Activity Name with Package Name>" />
+                        <category android:name="android.intent.category.DEFAULT" />
+                </intent-filter>
             
         </activity>
         
