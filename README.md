@@ -1,4 +1,4 @@
-# Androidb Intent
+# Android Intent Go to Another App Activity
 
 
 ## Open A Application
