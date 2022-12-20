@@ -11,7 +11,7 @@ setOnClickListener(new OnClickListener() {
         public void onClick(View v) {
            
            Intent intent = new Intent(" < another application activity name with package name > ")
-
+           startActivity(intent);
         }
     });
 
@@ -54,7 +54,7 @@ setOnClickListener(new OnClickListener() {
 ```
 
 
-##Better Understand - 
+## Better Understand - 
 
 
 _© All Right Reserved by Innovative Programmer ❤️_
